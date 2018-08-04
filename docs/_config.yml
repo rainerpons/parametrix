@@ -1,5 +1,5 @@
 theme: jekyll-theme-slate
-avatar: https://people.ucsc.edu/~rpons/assets/images/img-0714-1x1-640x640.jpg
+avatar: https://raw.githubusercontent.com/rainerpons/rainerpons.github.io/master/assets/images/me-598x598.jpg
 url: https://rainerpons.github.io/parametrix
 baseurl: '/parametrix'
 kramdown:
