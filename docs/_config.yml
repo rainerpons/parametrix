@@ -1,6 +1,0 @@
-theme: jekyll-theme-slate
-avatar: https://raw.githubusercontent.com/rainerpons/rainerpons.github.io/master/assets/images/me-598x598.jpg
-url: https://rainerpons.github.io/parametrix
-baseurl: '/parametrix'
-kramdown:
-    input: GFM
